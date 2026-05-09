@@ -24,5 +24,15 @@ A console-based Java application to manage student records with support for seme
 ## How to Run
 
 ### Compile
-```bash
 javac StudentManagementSystem.java
+
+### Run
+java StudentManagementSystem
+
+## Future Improvements
+- Database integration (MySQL)
+- REST API using Spring Boot
+- Web-based UI (React)
+
+## Author
+Rushitha Tumurugoti
